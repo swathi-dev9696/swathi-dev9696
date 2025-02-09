@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swathi-dev9696
 - 👀 I’m interested in Coding
-- 🌱 I’m currently Working as Java Developer
+- 🌱 I’m currently Working as a Java Developer
 - 💞️ As of I’m not looking to collaborate on ...
 - 📫 How to reach me  swathi.gurram9696@gmail.com
 - 😄 Pronouns: ...
